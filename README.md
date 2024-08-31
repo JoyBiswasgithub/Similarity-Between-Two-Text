@@ -6,7 +6,7 @@ This is a Streamlit application that compares two texts, calculates the similari
 
 You can try out the application live at the following link:
 
-[**Text Similarity Checker - Live Demo**](https://your-deployment-link.com)
+[**Text Similarity Checker - Live Demo**](https://text2textsimilarity.streamlit.app/)
 
 ## Working Principle
 
