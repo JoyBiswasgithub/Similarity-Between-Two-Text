@@ -2,10 +2,6 @@
 
 This is a Streamlit application that compares two texts, calculates the similarity percentage, and highlights the dissimilar words. It is a powerful tool for tasks that require text comparison, such as plagiarism detection, content revision, and more.
 
-## Demo
-
-![Demo](images/demo.gif)
-
 ## Working Principle
 
 ### 1. **Text Similarity Calculation:**
