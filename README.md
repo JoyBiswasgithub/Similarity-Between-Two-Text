@@ -11,7 +11,7 @@ You can try out the application live at the following link:
 ## Working Principle
 
 ### 1. **Text Similarity Calculation:**
-The application leverages Python's `difflib` library to calculate the similarity between two texts. Specifically, it uses the `SequenceMatcher` class, which computes a ratio indicating how closely two sequences (in this case, texts) resemble each other.
+The application leverages Python's `difflib` library to calculate the similarity between two texts. Specifically, it uses the `SequenceMatcher` class, which computes a ratio indicating how closely two sequences (in this case, texts) resemble each other..
 
 - **SequenceMatcher:** This algorithm works by finding the longest contiguous matching subsequence between the two texts, ignoring small differences like word order. The result is a similarity ratio between `0` and `1`, which is then converted into a percentage.
 
